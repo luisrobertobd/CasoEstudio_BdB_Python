@@ -1,3 +1,3 @@
-# CasoEstudio_BdB_Python
+# ejercicios_Python
 talleres y material de trabajo  aprendizaje Python.
 
